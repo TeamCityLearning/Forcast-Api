@@ -1,0 +1,6 @@
+@TeamCityLearningApplication_HostAddress = http://localhost:5036
+
+GET {{TeamCityLearningApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
